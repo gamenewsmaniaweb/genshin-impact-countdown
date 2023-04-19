@@ -1,7 +1,7 @@
 # Genshin Impact Countdown
 Genshin Live Countdown is a website live on https://genshin.live/ dedicated to providing Genshin Impact travelers with accurate and up-to-date information about banner countdown, livestream countdown, release dates, maintenance dates and times, and more. The website is created and maintained by Jyoti, a passionate gamer who understands the importance of staying up-to-date with the latest news and release dates.
 
-![Genshin Impact Countdown screenshot](https://raw.githubusercontent.com/gamenewsmaniaweb/genshin-impact-countdown/main/genshin-impact-countdown_3613.webp)
+![Genshin Impact Countdown screenshot](https://raw.githubusercontent.com/gamenewsmaniaweb/genshin-impact-countdown/main/Genshin-Impact-Countdown_202.webp)
 
 ## Features
 - Accurate countdown timers for banner, livestream, release, and maintenance dates and times.
